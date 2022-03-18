@@ -3,9 +3,10 @@
 
 Random words flow generator.
 
-Svelte + SMUI + Rollup experiment.
+**Svelte** + **SMUI** + **Rollup** experiment.
+Settings use **Svelte stores** and **localStorage**.
 
-Live preview: https://senseless.bioworks.ru/
+Live preview: https://luridev.github.io/senseless/
 
 # svelte app
 
